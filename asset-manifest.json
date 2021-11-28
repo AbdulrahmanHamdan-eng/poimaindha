@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/poimaindha/static/css/main.460af9cc.chunk.css",
+    "main.js": "/poimaindha/static/js/main.ab053ed7.chunk.js",
+    "main.js.map": "/poimaindha/static/js/main.ab053ed7.chunk.js.map",
+    "runtime-main.js": "/poimaindha/static/js/runtime-main.89216497.js",
+    "runtime-main.js.map": "/poimaindha/static/js/runtime-main.89216497.js.map",
+    "static/js/2.21ff3054.chunk.js": "/poimaindha/static/js/2.21ff3054.chunk.js",
+    "static/js/2.21ff3054.chunk.js.map": "/poimaindha/static/js/2.21ff3054.chunk.js.map",
+    "static/js/3.02db528f.chunk.js": "/poimaindha/static/js/3.02db528f.chunk.js",
+    "static/js/3.02db528f.chunk.js.map": "/poimaindha/static/js/3.02db528f.chunk.js.map",
+    "index.html": "/poimaindha/index.html",
+    "precache-manifest.0561753061afbe09a08b58a266197525.js": "/poimaindha/precache-manifest.0561753061afbe09a08b58a266197525.js",
+    "service-worker.js": "/poimaindha/service-worker.js",
+    "static/css/main.460af9cc.chunk.css.map": "/poimaindha/static/css/main.460af9cc.chunk.css.map",
+    "static/js/2.21ff3054.chunk.js.LICENSE.txt": "/poimaindha/static/js/2.21ff3054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89216497.js",
+    "static/js/2.21ff3054.chunk.js",
+    "static/css/main.460af9cc.chunk.css",
+    "static/js/main.ab053ed7.chunk.js"
+  ]
+}
